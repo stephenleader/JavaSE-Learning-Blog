@@ -42,3 +42,21 @@
 比如Java，C/C++，安全性高，但速度相对较慢
 
 21/80
+
+
+
+## JavaDoc（生成自己API文档的，可以加在类上和方法上）
+
+文档注释生成
+
+@author 作者名
+
+@version 版本号
+
+@since 知名最早使用的JDK
+
+@param 参数名
+
+@return 返回值情况
+
+@throws 异常抛出情况
