@@ -1,7 +1,7 @@
 /*
 输入多个数字，并且求其综合与平均值，每输入一个数字回车确认
  */
-package demo01;
+package firstTest;
 
 import java.util.Scanner;
 

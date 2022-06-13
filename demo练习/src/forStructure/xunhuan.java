@@ -1,6 +1,6 @@
-package forXunhuan;
+package forStructure;
 
-public class test05 {
+public class xunhuan {
     public static void main(String[] args){
         int[] numbers = {10,20,30,40,50};//定义了一个数组
         //遍历数组的元素
