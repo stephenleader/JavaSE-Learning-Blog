@@ -4,6 +4,12 @@ package jiCheng;
 //子类可以继承父类的所有方法
 public class Student extends Person {
 
+   public void go(){
+       System.out.println("gogogog@!!");
+   }
+
+
+
     //无参数形式
     public Student(){
         //隐藏代码，调用了父类的无参构造
@@ -27,6 +33,16 @@ public class Student extends Person {
         print();
         this.print();
         super.print();
+    }
+
+
+
+    public void run(){
+        System.out.println("son...");
+    }
+
+    public void eat(){
+        System.out.println("ear..");
     }
 
 }
